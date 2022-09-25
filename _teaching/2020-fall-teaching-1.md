@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2020-fall-teaching-1
 venue: "Rutgers University"
-date: 2016-2020
+# date: 2016-2020
 location: "New Brunswick, NJ"
 ---
 

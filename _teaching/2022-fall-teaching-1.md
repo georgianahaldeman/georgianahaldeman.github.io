@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses and labs"
 permalink: /teaching/2022-fall-teaching-1
 venue: "Colgate University"
-date: 2021-2022
+# date: 2021-2022
 location: "Hamilton, NY"
 ---
 
