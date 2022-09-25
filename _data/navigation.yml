@@ -1,15 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Teaching"
+    url: /teaching/ 
+
+  - title: "Research"
     url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+   
     
-  - title: "Portfolio"
+  - title: "Diversity, Equity and Inclusion"
     url: /portfolio/
         
   - title: "Blog Posts"
