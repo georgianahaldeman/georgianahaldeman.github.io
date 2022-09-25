@@ -1,7 +1,7 @@
 ---
 title: "Completed Work in Large Distributed Scientific Workflows"
 collection: publications
-permalink: /publication/2015-05-01-paper-title-number-2
+permalink: /publication/2014-01-01-paper-title-number-2
 excerpt: 'Before conducting research in CSed, I did research in large distributed scientific workflows'
 # date: 2015-10-01
 # venue: 'Journal 1'
