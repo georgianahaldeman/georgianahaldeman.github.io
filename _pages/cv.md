@@ -1,12 +1,10 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/Haldeman_CV.pdf
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-<embed src="/files/Haldeman_CV.pdf" type="application/pdf">
