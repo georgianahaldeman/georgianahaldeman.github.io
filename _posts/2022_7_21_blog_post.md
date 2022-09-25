@@ -1,0 +1,13 @@
+---
+title: 'Colgate Poster Presentation'
+date: 2022-07-21
+permalink: /posts/2012/08/blog-post-4/
+tags:
+  - Colgate
+  - poster
+  - summer research
+---
+
+<img src='/images/ring_pizer.jpg'>
+
+Mary Ring (left) and Emma Pizer (right) presented their poster at Colgate's Summer Research Poster Session. 
