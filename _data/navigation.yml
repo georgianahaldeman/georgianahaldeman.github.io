@@ -8,8 +8,6 @@ main:
 
   # - title: "Talks"
   #   url: /talks/    
-
-   
     
   - title: "Diversity, Equity and Inclusion"
     url: /portfolio/
@@ -20,5 +18,5 @@ main:
   - title: "CV"
     url: /files/Haldeman_CV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
