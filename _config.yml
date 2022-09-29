@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me / Main Page"
+title                    : "About me / Home"
 title_separator          : "-"
 name                     : &name "Georgiana Haldeman"
 description              : &description "personal description"
