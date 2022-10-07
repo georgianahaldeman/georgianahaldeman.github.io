@@ -10,13 +10,13 @@ location: "New Brunswick, NJ"
 
 My teaching experience at Rutgers University, a R1-university, as a teaching assistant (TA) and lecturer during PhD program, includes:
 
-Lecturer
+## Lecturer
 ======
 
 Introduction to Computer Science (CS 111)
 - Spring 2018
 
-Teaching Assistant (TA)
+## Teaching Assistant (TA)
 ======
 
 

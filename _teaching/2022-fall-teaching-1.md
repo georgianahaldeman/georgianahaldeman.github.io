@@ -8,7 +8,7 @@ venue: "Colgate University"
 location: "Hamilton, NY"
 ---
 
-My teaching experience at Colgate University, an undergraduate liberal-arts institution with a 5 course teaching load, includes:
+My teaching experience at Colgate University, an undergraduate liberal-arts institution with a 5 course teaching load, includes: 
 
 Introduction to Cryptography (COSC 480)
 - Fall 2022
