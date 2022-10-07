@@ -11,6 +11,7 @@ permalink: /publication/2021-08-23-paper-title-number-1
 
 ### **Georgiana Haldeman**. _Automated feedback generation for programming assignments_. 
 
-- Zhu, He (chair); Nguyen, Thu D (chair); Kremer, Ulrich (member); Zilles, Craig (member); Rutgers University; School of Graduate Studies
+- Nguyen, Thu D (chair); Zhu, He (chair); Kremer, Ulrich (member) - _Rutgers University_
+- Zilles, Craig (external member) - _University of Illinois_
 
-- [Download thesis here](https://doi.org/doi:10.7282/t3-1wcg-de52)
+[Download thesis here](https://doi.org/doi:10.7282/t3-1wcg-de52)
