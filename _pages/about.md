@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a CSed researcher and currently working as a Visiting Assistant Professor (VAP) at Colgate University. Prior I did my PhD at Rutgers University under the supervision of Thu Nguyen and He Zhu. 
+I am a CSed researcher and currently working as a Visiting Assistant Professor (VAP) at Colgate University. Prior I did my PhD at Rutgers University under the supervision of Thu Nguyen and He Zhu. Before conducting research in CSed, I did research in large distributed scientific workflows.
 
 Currently Teaching
 ===

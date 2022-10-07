@@ -9,8 +9,8 @@ permalink: /publication/2021-08-23-paper-title-number-1
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-**Georgiana Haldeman**. _Automated feedback generation for programming assignments_. 
+### **Georgiana Haldeman**. _Automated feedback generation for programming assignments_. 
 
-Zhu, He (chair); Nguyen, Thu D (chair); Kremer, Ulrich (member); Zilles, Craig (member); Rutgers University; School of Graduate Studies
+- Zhu, He (chair); Nguyen, Thu D (chair); Kremer, Ulrich (member); Zilles, Craig (member); Rutgers University; School of Graduate Studies
 
-[Download thesis here](https://doi.org/doi:10.7282/t3-1wcg-de52)
+- [Download thesis here](https://doi.org/doi:10.7282/t3-1wcg-de52)
