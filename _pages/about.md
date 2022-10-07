@@ -26,7 +26,7 @@ News
 
 9/16: [Successfully ran an intervention in Intro to Computing II](https://georgianahaldeman.github.io/posts/2022/09/blog-post-3/).
 
-9/14: [Students in my cryptography course built 1-rotor Enigma](https://georgianahaldeman.github.io/posts/2022/09/blog-post-2/).
+9/14: [My students in COSC 480, Intro to Cryptography, got to build 1-rotor Enigma machines on potato chip cans.](https://georgianahaldeman.github.io/posts/2022/09/blog-post-2/).
 
 9/09: [My student, Emma Pizer, described her summer research experience in an article in The Colgate Maroon News](https://thecolgatemaroonnews.com/37897/bakers-dozen/37897/).
 
