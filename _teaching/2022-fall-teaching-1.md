@@ -1,5 +1,5 @@
 ---
-title: "Teaching at Colgate University, a liberal-arts institution"
+title: "Colgate University, a liberal-arts institution"
 collection: teaching
 type: "Undergraduate courses and labs"
 permalink: /teaching/2022-fall-teaching-1
