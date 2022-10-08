@@ -10,19 +10,41 @@ redirect_from:
 
 I am a CSed researcher and currently working as a Visiting Assistant Professor (VAP) at Colgate University. Prior I did my PhD at Rutgers University under the supervision of Thu Nguyen and He Zhu. Before conducting research in CSed, I did research in large distributed scientific workflows.
 
-Currently Teaching
-===
+## Currently Teaching
 
-Introduction to Cryptography (COSC 480)
+**Introduction to Cryptography (COSC 480)**
 - Cryptography is everywhere in our everyday life, from Internet security to cryptocurrency, and it has been around for more than 4000 years. In this course, we learn about the nuts and bolts of cryptography that we refer to as cryptographic primitives; we also study how these are used in constructions to achieve security services such as confidentiality, message authentication, integrity, and non-repudiation. In parallel, we study the math behind some of these cryptographic primitives. Finally, we learn how to reason about and quantify the security of different constructions. The course work includes 6 programming assignments touching on different aspects of cryptography with a Capstone-like project at the end.
 
-Intro to Computing II (COSC 102)
+**Intro to Computing II (COSC 102)**
 - A continuation of COSC 101 and the first course in the major. Develops advanced programming topics such as abstract data types and algorithms and their analyses. Abstract data structures may include lists, stacks, queues, maps, trees, and heaps; algorithms include search and sort procedures. The concepts of information hiding, data abstraction, and modular design are emphasized. Object-oriented programming is used throughout.
 
-News
-===
+## News
+
+### 2023
+
+***
+
+3/15-18: [SIGCSE 2023](https://sigcse2023.sigcse.org) in Toronto, Canada.
+
+1/15: [ITiCSE 2023](https://iticse.acm.org/2023/) Application Deadline.
+
+### 2022
+
+***
+
+11/17-20: [Koli Calling Conference](https://www.kolicalling.fi) in Koli, Finland.
+
+11/05: [10th New York Six Undergraduate Research Conference](https://newyork6.org/news/ny6-urc) is takin place at [Colgate University](https://www.colgate.edu/academics/research-scholarship).
+
+10/21: [10th New York Six Undergraduate Research Conference](https://newyork6.org/news/ny6-urc) Application Deadline.
+
+10/14: [CRA Outstanding Undergraduate Researcher Awards](https://cra.org/crae/awards/cra-outstanding-undergraduate-researchers/) Application Deadline.
+
+10/14: Posters deadline for SIGCSE 2023.
 
 9/28: On the job market for tenure-track positions.
+
+9/20-24: Students from my Intro to Computing II and Intro to Cryptography are attending [GHC 2022](https://ghc.anitab.org/) in Florida.
 
 9/16: [Successfully ran an intervention in Intro to Computing II](https://georgianahaldeman.github.io/posts/2022/09/blog-post-3/).
 
