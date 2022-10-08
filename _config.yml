@@ -83,11 +83,11 @@ author:
   name             : "Georgiana Haldeman"
   avatar           : "headshot.jpg"
   bio              : "Be the change you want to see in the world and have fun while at it!"
-  location         : "13 Oak Drive, Hamilton, NY"
+  location         : "Hamilton, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Ota_VYEAAAAJ"
-  email            : "ghaldeman@colgate.edu"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
