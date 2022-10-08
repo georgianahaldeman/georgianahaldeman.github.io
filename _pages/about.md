@@ -34,7 +34,7 @@ I am a CSed researcher and currently working as a Visiting Assistant Professor (
 
 11/17-20: [Koli Calling Conference](https://www.kolicalling.fi) in Koli, Finland.
 
-11/05: [10th New York Six Undergraduate Research Conference](https://newyork6.org/news/ny6-urc) is takin place at [Colgate University](https://www.colgate.edu/academics/research-scholarship).
+11/05: [10th New York Six Undergraduate Research Conference](https://newyork6.org/news/ny6-urc) is taking place at [Colgate University](https://www.colgate.edu/academics/research-scholarship).
 
 10/21: [10th New York Six Undergraduate Research Conference](https://newyork6.org/news/ny6-urc) Application Deadline.
 
