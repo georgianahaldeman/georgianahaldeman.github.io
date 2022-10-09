@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a CSed researcher and currently working as a Visiting Assistant Professor (VAP) at Colgate University. Prior I did my PhD at Rutgers University under the supervision of Thu Nguyen and He Zhu. Before conducting research in CSed, I did research in large distributed scientific workflows.
+I am a CSed researcher and currently working as a Visiting Assistant Professor (VAP) at Colgate University. Prior I did my PhD at Rutgers University under the supervision of [Thu D. Nguyen](https://thu-d-nguyen.cs.rutgers.edu) and [He Zhu](https://herowanzhu.github.io). Before conducting research in CSed, I did research in large distributed scientific workflows under the supervision of [Manish Parashar](http://manishparashar.org) and in cryptography under the supervision of [David Cash](https://people.cs.uchicago.edu/~davidcash/).
 
 ## Currently Teaching
 
