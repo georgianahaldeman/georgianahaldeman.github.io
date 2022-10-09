@@ -44,7 +44,7 @@ I am a CSed researcher and currently working as a Visiting Assistant Professor (
 
 9/28: On the job market for tenure-track positions.
 
-9/20-24: Students from my Intro to Computing II and Intro to Cryptography are attending [GHC 2022](https://ghc.anitab.org/) in Florida.
+9/20-24: Students from my Intro to Computing II and Intro to Cryptography are attending [GHC 2022](https://georgianahaldeman.github.io/posts/2022/09/blog-post-4/) in Florida, USA.
 
 9/16: [Successfully ran an intervention in Intro to Computing II](https://georgianahaldeman.github.io/posts/2022/09/blog-post-3/).
 
