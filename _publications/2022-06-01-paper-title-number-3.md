@@ -17,6 +17,6 @@ permalink: /publication/2022-06-01-paper-title-number-3
     - **Georgiana Haldeman**, Grusha Prasad (2022-23). _Exploring the impact of conceptual metaphors on learning about the notional machine_. Manuscript in preparation for ITiCSE 2023.
 
 - ### Posters
-    - Mathelide Hou*, Kevin Han*, Ahmed Kamran*, **Georgiana Haldeman** (2022-23). _Training-wheels vs. upgrading-the-vehicle: A study of different approaches to visualizing conceptual metaphors_. Manuscript submitted for publication at SIGCSE 2023.
-    - Mary Ring*, Emma Pizer*. Mathelide Hou*, **Georgiana Haldeman** (2022-23). _Do CS instructors and students use the same visual metaphors?_. Manuscript submitted for publication at SIGCSE 2023.
-    - Emma Pizer*, Mathelide Hou*, Matthew Rojas Diaz*, **Georgiana Haldeman** (2022-2023). _RAVIC: Runtime Analysis Visualizer for Introductory Courses_. Manuscript submitted for publication at SIGCSE 2023.
+    - Mathelide Hou *, Kevin Han *, Ahmed Kamran *, **Georgiana Haldeman** (2022-23). _Training-wheels vs. upgrading-the-vehicle: A study of different approaches to visualizing conceptual metaphors_. Manuscript submitted for publication at SIGCSE 2023.
+    - Mary Ring *, Emma Pizer *, Mathelide Hou *, **Georgiana Haldeman** (2022-23). _Do CS instructors and students use the same visual metaphors?_. Manuscript submitted for publication at SIGCSE 2023.
+    - Emma Pizer *, Mathelide Hou *, Matthew Rojas Diaz *, **Georgiana Haldeman** (2022-2023). _RAVIC: Runtime Analysis Visualizer for Introductory Courses_. Manuscript submitted for publication at SIGCSE 2023.
