@@ -13,10 +13,12 @@ permalink: /publication/2022-06-01-paper-title-number-3
 
 (* indicates undergraduate student author)
 
-- ### Conference
-    - **Georgiana Haldeman**, Grusha Prasad (2022-23). _Exploring the impact of conceptual metaphors on learning about the notional machine_. Manuscript in preparation for ITiCSE 2023.
+- ### Journal
+    - **Georgiana Haldeman**, Monica Babeş-Vroman, Andrew Tjang, and Thu D. Nguyen. _CSF: Formative Feedback in Autograding_. ACM Trans. Comput. Educ. 21, 3, Article 21 (September 2021), 30 pages. 
+    
+    [Download journal paper here](https://doi.org/10.1145/3445983)
 
 - ### Posters
-    - Mathelide Hou *, Kevin Han *, Ahmed Kamran *, **Georgiana Haldeman** (2022-23). _Training-wheels vs. upgrading-the-vehicle: A study of different approaches to visualizing conceptual metaphors_. Manuscript submitted for publication at SIGCSE 2023.
-    - Mary Ring *, Emma Pizer *, Mathelide Hou *, **Georgiana Haldeman** (2022-23). _Do CS instructors and students use the same visual metaphors?_. Manuscript submitted for publication at SIGCSE 2023.
-    - Emma Pizer *, Mathelide Hou *, Matthew Rojas Diaz *, **Georgiana Haldeman** (2022-2023). _RAVIC: Runtime Analysis Visualizer for Introductory Courses_. Manuscript submitted for publication at SIGCSE 2023.
+    - **Georgiana Haldeman**, Emma Pizer *, Mathelide Hou *, Matthew Rojas *, Kevin Han *, and Ahmed Kamran *. _RAVIC: Runtime Analysis Visualizer for Introductory Courses_. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2023). Association for Computing Machinery, New York, NY, USA, 1391. 
+    
+    [Download poster here](https://doi.org/10.1145/3545947.3576336)

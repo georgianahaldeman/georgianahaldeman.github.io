@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/ 
+  # - title: "Teaching"
+  #   url: /teaching/ 
 
   - title: "Research"
     url: /publications/
@@ -9,14 +9,14 @@ main:
   # - title: "Talks"
   #   url: /talks/    
     
-  - title: "Diversity, Equity and Inclusion"
-    url: /portfolio/
+  # - title: "Diversity, Equity and Inclusion"
+  #   url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /files/Haldeman_CV.pdf
+  # - title: "CV"
+  #   url: /files/Haldeman_CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
