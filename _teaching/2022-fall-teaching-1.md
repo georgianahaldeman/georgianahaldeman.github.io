@@ -11,6 +11,7 @@ location: "Hamilton, NY"
 <!-- My teaching experience at Colgate University, an undergraduate liberal-arts institution with a 5 course teaching load, includes:  -->
 
 - **Introduction to Cryptography (COSC 480)**
+    - Spring 2023
     - Fall 2022
 
 - **Intro to Computing II (COSC 102)**
@@ -18,5 +19,6 @@ location: "Hamilton, NY"
     - Spring 2022
 
 - **Intro to Computing I (COSC 101)**
+    - Spring 2023
     - Spring 2022
     - Fall 2022
