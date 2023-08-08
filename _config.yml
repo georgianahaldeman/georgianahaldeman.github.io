@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Georgiana"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Georgiana Haldeman"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Georgiana Haldeman"
   avatar           : "headshot.jpg"
-  bio              : "Be the change you want to see in the world and have fun while at it!"
+  # bio              : "Be the change you want to see in the world and have fun while at it!"
   location         : "Hamilton, NY"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

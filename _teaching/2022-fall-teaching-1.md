@@ -21,4 +21,4 @@ location: "Hamilton, NY"
 - **Intro to Computing I (COSC 101)**
     - Spring 2023
     - Spring 2022
-    - Fall 2022
+    - Fall 2021
