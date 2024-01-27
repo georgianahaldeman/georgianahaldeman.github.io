@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor at Colgate University. My research focus is in Computer Science Education. I graduated with a PhD in Computer Science from Rutgers University in 2021.
+I am currently an Assistant Professor at Colgate University. My research focus is in Computer Science Education (CER). I graduated with a PhD in Computer Science at Rutgers University in 2021.
 
-<!--- 
-[Thu D. Nguyen](https://thu-d-nguyen.cs.rutgers.edu) and [He Zhu](https://herowanzhu.github.io). Before conducting research in CSed, I did research in large distributed scientific workflows under the supervision of [Manish Parashar](http://manishparashar.org) and in cryptography under the supervision of [David Cash](https://people.cs.uchicago.edu/~davidcash/).
--->
+
 
 ## Currently Teaching
 
-- [**Software Testing and Analysis (COSC 480)**](https://georgianahaldeman.github.io/cosc480/)
+<!-- - [**Software Testing and Analysis (COSC 480)**](https://georgianahaldeman.github.io/cosc480/) -->
 
 - [**Intro to Computing I (COSC 101)**](https://georgianahaldeman.github.io/cosc101/)
