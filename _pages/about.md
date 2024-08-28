@@ -14,7 +14,7 @@ I am currently an Assistant Professor at Colgate University. My research focus i
 
 ## Currently Teaching
 
-- [**Software Analysis and Testing (COSC215)**](https://georgianahaldeman.github.io/portfolio/)
+- [**Software Analysis and Testing (COSC215)**](https://georgianahaldeman.github.io/sat/)
 
 <!-- - [**Intro to Computing I (COSC 101)**](https://georgianahaldeman.github.io/cosc101/) -->
 

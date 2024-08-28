@@ -1,5 +1,6 @@
 ---
-title: "Intro to Software Analysis and Testing"
+title: "Intro to SAT"
+date: 2024-08-30
 excerpt: "First Class"
 collection: sat
 ---
