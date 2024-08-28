@@ -184,6 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  sat:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -234,6 +237,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
+      comment: true
+  # _sat
+  - scope:
+      path: ""
+      type: sat
+    values:
+      layout: single
+      author_profile: false
       share: true
       comment: true
   # _talks

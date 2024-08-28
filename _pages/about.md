@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor at Colgate University. My research focus is in Computer Science Education (CER). I graduated with a PhD in Computer Science at Rutgers University in 2021.
+I am currently an Assistant Professor at Colgate University. My research focus is in Computer Science Education Research (CER). I graduated with a PhD in Computer Science at Rutgers University in 2021.
 
 
 
 ## Currently Teaching
 
-- Software Analysis and Testing (COSC215)
+- [**Software Analysis and Testing (COSC215)**](https://georgianahaldeman.github.io/portfolio/)
 
 <!-- - [**Intro to Computing I (COSC 101)**](https://georgianahaldeman.github.io/cosc101/) -->
 
