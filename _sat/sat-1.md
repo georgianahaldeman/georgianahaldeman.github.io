@@ -137,3 +137,5 @@ class BoardComputer {
     }
 } 
 ```
+
+[Code Style Worksheet](8_30.pdf)
