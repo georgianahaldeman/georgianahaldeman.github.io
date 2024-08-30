@@ -38,10 +38,102 @@ We conclude that there is a high overlap between external and internal qualities
 ### Software Quality Principles
 
 Some general principles to achieve the software qualities discussed prior are:
-- Rigor and Formality. Rigor means precision and exactness. Formality is a stronger requirement than rigor which requires the use of mathematical laws to evaluate and proceed. It’s impossible to achieve formality in software engineering because of its creative nature so the best we can strive for in many instances is rigor. We will briefly study some formal methods in this course. However, one crucial expectation of the course is that you will practice rigor in your software engineering activities. For example, many students coming into this course are very intuitive about their testing practices. In a few weeks, we will discuss the differences between intuitive and systematic testing. We will then learn different systematic and effective methods to engage in testing. Note that although in the past you were assessed based on the end product (the tests you provided), in this course you will be primarily assessed on the rigor of the process and the reporting.
+- **Rigor and Formality**. Rigor means precision and exactness. Formality is a stronger requirement than rigor which requires the use of mathematical laws to evaluate and proceed. It’s impossible to achieve formality in software engineering because of its creative nature so the best we can strive for in many instances is rigor. We will briefly study some formal methods in this course. However, one crucial expectation of the course is that you will practice rigor in your software engineering activities. For example, many students coming into this course are very intuitive about their testing practices. In a few weeks, we will discuss the differences between intuitive and systematic testing. We will then learn different systematic and effective methods to engage in testing. Note that although in the past you were assessed based on the end product (the tests you provided), in this course you will be primarily assessed on the rigor of the process and the reporting.
 - Separations of concerns
 - Modularity
 - Abstraction
 - Incrementality 
 - Anticipation of change and generality 
 
+### Code Style
+
+
+Code style is connected to many desirable software qualities of code, including correctness. Let's look at this code:
+
+```Java
+class BoardComputer {
+
+    CruiseControl cruiseControl;
+
+    void authorize(User user) {
+        Objects.requireNonNull(user);
+        if (user.isUnknown())
+            cruiseControl.logUnauthorizedAccessAttempt();
+        if (user.isAstronaut())
+            cruiseControl.grantAccess(user);
+        if (user.isCommander())
+            cruiseControl.grantAccess(user);
+            cruiseControl.grantAdminAccess(user);
+    }
+}
+```
+
+Note that the last line of code is not part of the body of the last ```if``` statement and in fact, gets executed every time the method ```authorize``` is invoked. For this particular application, this goes beyond correctness and presents a high security risk. The fix is to add curly braces around the body like so:
+
+```Java
+class BoardComputer {
+
+    CruiseControl cruiseControl;
+
+    void authorize(User user) {
+        Objects.requireNonNull(user);
+        if (user.isUnknown()){
+            cruiseControl.logUnauthorizedAccessAttempt();
+        }
+        if (user.isAstronaut()){
+            cruiseControl.grantAccess(user);
+        }
+        if (user.isCommander()){
+            cruiseControl.grantAccess(user);
+            cruiseControl.grantAdminAccess(user);
+        }
+    }
+}
+```
+
+One may also conclude that the three cases are mutually exclusive and combine them in an ```if-else-if``` structure like so:
+
+```Java
+class BoardComputer {
+
+    CruiseControl cruiseControl;
+
+    void authorize(User user) {
+        Objects.requireNonNull(user);
+        if (user.isUnknown()){
+            cruiseControl.logUnauthorizedAccessAttempt();
+        }
+        else if (user.isAstronaut()){
+            cruiseControl.grantAccess(user);
+        }
+        else if (user.isCommander()){
+            cruiseControl.grantAccess(user);
+            cruiseControl.grantAdminAccess(user);
+        }
+    }
+}
+```
+
+However, note that there is an asymmetry in the code from the fact that we are mixing authorizing code with non-authorizing code. We can increase the understandability of our code by separating them out like so:
+
+```Java
+class BoardComputer {
+
+    CruiseControl cruiseControl;
+
+    void authorize(User user) {
+        Objects.requireNonNull(user);
+        if (user.isUnknown()) {
+            cruiseControl.logUnauthorizedAccessAttempt();
+            return;
+        }
+
+        if (user.isAstronaut()) {
+            cruiseControl.grantAccess(user);
+        } else if (user.isCommander()) {
+            cruiseControl.grantAccess(user);
+            cruiseControl.grantAdminAccess(user);
+        }
+    }
+} 
+```
