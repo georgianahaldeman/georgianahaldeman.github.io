@@ -1,5 +1,5 @@
 ---
-title: "Appropriate constructs and Conventions"
+title: "Appropriate constructs"
 date: 2024-09-03
 excerpt: ""
 collection: sat
@@ -127,4 +127,4 @@ enum SpeedPreset {
 }
 ```
 
-[[Appropriate Construct Worksheet]](8_30.pdf)
+[[Appropriate Construct Worksheet]](9_3.pdf)
