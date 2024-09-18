@@ -10,7 +10,7 @@ Conventions are rules that are widely agreed upon by professionals. Used approap
 
 **Rule 1**: Remove excessive comments for example:
 
-```Java
+```
 class Inventory {
     // Fields (we only have one)
     List<Supply> supplies = new ArrayList<>(); // The list of supplies.
@@ -35,7 +35,7 @@ class Inventory {
 
 Becomes:
 
-```Java
+```
 class Inventory {
 
     List<Supply> supplies = new ArrayList<>();
@@ -60,7 +60,7 @@ class Inventory {
 
 **Rule 2**: Remove code in comments for example:
 
-```Java
+```
 class LaunchChecklist {
 
     List<String> checks = Arrays.asList(
@@ -88,7 +88,7 @@ class LaunchChecklist {
 
 Becomes:
 
-```Java
+```
 class LaunchChecklist {
 
     List<String> checks = Arrays.asList(
@@ -112,7 +112,7 @@ class LaunchChecklist {
 
 **Rule 3**: Replace comments with constants for example:
 
-```Java
+```
 enum SmallDistanceUnit {
 
     CENTIMETER,
@@ -134,7 +134,7 @@ enum SmallDistanceUnit {
 
 Becomes:
 
-```Java
+```
 enum SmallDistanceUnit {
 
     CENTIMETER,
@@ -161,7 +161,7 @@ enum SmallDistanceUnit {
 
 **Rule 4**: Replace comments with utility methods for example:
 
-```Java
+```
 class FuelSystem {
 
     List<Double> tanks = new ArrayList<>();
@@ -180,7 +180,7 @@ class FuelSystem {
 
 Becomes:
 
-```Java
+```
 class FuelSystem {
 
     List<Double> tanks = new ArrayList<>();
@@ -201,7 +201,7 @@ class FuelSystem {
 ```
 **Rule 5**: Do document implementation decisions using a pattern like this:
 
-```Java
+```
 /*
 * In the context of [USE CASE],
 * facing [CONCERN]
@@ -213,7 +213,7 @@ class FuelSystem {
 
 For example:
 
-```Java
+```
 class Inventory {
     
     private List<Supply> list = new ArrayList<>();
@@ -232,7 +232,7 @@ class Inventory {
 
 Becomes:
 
-```Java
+```
     boolean isInStock(String name) {
         /*
          * In the context of checking availability of supplies by name,
@@ -247,7 +247,7 @@ Becomes:
 
 **Rule 6**: Use examples in your documentation for instance:
 
-```Java
+```
 class Supply {
 
     /**
@@ -267,7 +267,7 @@ class Supply {
 
 Becomes:
 
-```Java
+```
 class Supply {
 
     /**

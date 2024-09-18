@@ -50,7 +50,7 @@ Some general principles to achieve the software qualities discussed prior are:
 
 Code style is connected to many desirable software qualities of code, including correctness. Let's look at this code:
 
-```Java
+```
 class BoardComputer {
 
     CruiseControl cruiseControl;
@@ -70,7 +70,7 @@ class BoardComputer {
 
 Note that the last line of code is not part of the body of the last ```if``` statement and in fact, gets executed every time the method ```authorize``` is invoked. For this particular application, this goes beyond correctness and presents a high security risk. The fix is to add curly braces around the body like so:
 
-```Java
+```
 class BoardComputer {
 
     CruiseControl cruiseControl;
@@ -93,7 +93,7 @@ class BoardComputer {
 
 One may also conclude that the three cases are mutually exclusive and combine them in an ```if-else-if``` structure like so:
 
-```Java
+```
 class BoardComputer {
 
     CruiseControl cruiseControl;
@@ -116,7 +116,7 @@ class BoardComputer {
 
 However, note that there is an asymmetry in the code from the fact that we are mixing authorizing code with non-authorizing code. We can increase the understandability of our code by separating them out like so:
 
-```Java
+```
 class BoardComputer {
 
     CruiseControl cruiseControl;

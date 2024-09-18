@@ -7,7 +7,7 @@ collection: sat
 
 One of the examples from last class used an ```enum``` structure:
 
-```Java
+```
 private Result analyzeOrganic(Sample sample) {
     if (microscope.isHumanoid(sample) == false) {
         return Result.ALIEN;
@@ -19,7 +19,7 @@ private Result analyzeOrganic(Sample sample) {
 
 An enumeration is a pre-defined set of values, for example:
 
-```Java
+```
 public enum Result {
     HUMANOID, INORGANIC, ALIEN
 }
@@ -29,7 +29,7 @@ The advantage to using an enumeration is that when you declare a variable, a par
 
 Additionally, you can add attributes and constructor to enumerations just like with classes likes so:
 
-```Java
+```
 public enum Result {
     HUMANOID(75), 
     INORGANIC(40), 
@@ -45,7 +45,7 @@ public enum Result {
 
 **Warm-up Problem**: How can we improve the quality of this code snippet:
 
-```Java
+```
 class CruiseControl {
 
     private double targetSpeedKmh;
@@ -68,7 +68,7 @@ class CruiseControl {
 
 Numbers without an apparent meaning that steer the program are called **magic numbers**. We can dispel their magic and thus improve the quality of the code by making them constants:
 
-```Java
+```
 class CruiseControl {
 
     static final int STOP_PRESET = 0;
@@ -101,7 +101,7 @@ Can we do better?
 
 Note that nothing restricts the user to call ```setPreset``` with values other than the three values it checks for and the function terminates without error. We can make the semantics of this function more transperant for outside usage by using an ```enum``` construct like so:
 
-```Java
+```
 class CruiseControl {
 
     private double targetSpeedKmh;
