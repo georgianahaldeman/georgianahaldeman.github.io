@@ -20,6 +20,7 @@ collection: sat
 - Documentation
     - [Java 22](https://weblab.tudelft.nl/docs/java/22/api/index.html)
         - [java.base package](https://weblab.tudelft.nl/docs/java/22/api/java.base/module-summary.html)
+    - [Maven project manager](https://maven.apache.org/index.html)
     - JUnit
         - [User Guide](https://weblab.tudelft.nl/docs/junit5/5.7.0/user-guide/)
         - [Latest API](https://weblab.tudelft.nl/docs/junit5/5.7.0/api/)
