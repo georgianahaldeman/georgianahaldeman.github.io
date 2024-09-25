@@ -290,4 +290,4 @@ class Supply {
 ```
 
 
-[[Naming Conventions Worksheet]](9_5.pdf)
+[[Naming Conventions Worksheet]](/_sat/files/9_5.pdf)

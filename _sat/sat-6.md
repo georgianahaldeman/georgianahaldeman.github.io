@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Systematic and Formal Testing"
+title: "Introduction to Systematic and Effective Testing"
 date: 2024-09-19
 excerpt: ""
 collection: sat
@@ -12,4 +12,4 @@ collection: sat
 [[Colgate's Guide for how to paraphrase]](https://www.colgate.edu/media/52451/download?attachment)  (pages 17-18)
 
 
-[[Worksheet]](9_19.pdf)
+[[Worksheet]](/_sat/files/9_19.pdf)
