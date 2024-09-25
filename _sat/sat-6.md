@@ -12,4 +12,4 @@ collection: sat
 [[Colgate's Guide for how to paraphrase]](https://www.colgate.edu/media/52451/download?attachment)  (pages 17-18)
 
 
-[[Worksheet]](/_sat/files/9_19.pdf)
+[[Worksheet]](/sat/files/9_19.pdf)

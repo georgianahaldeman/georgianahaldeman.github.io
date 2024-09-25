@@ -186,4 +186,4 @@ class TransmissionParser {
 }
 ```
 
-[[Worksheet]](/_sat/files/9_17.pdf)
+[[Worksheet]](/sat/files/9_17.pdf)
