@@ -9,3 +9,4 @@ collection: sat
 
 
 [[Worksheet]](/sat/files/9_24.pdf)
+[[Answers]](/sat/files/9_24_ans.pdf)

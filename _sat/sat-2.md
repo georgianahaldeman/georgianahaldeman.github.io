@@ -128,3 +128,4 @@ enum SpeedPreset {
 ```
 
 [[Appropriate Construct Worksheet]](/sat/files/9_3.pdf)
+[[Answers]](/sat/files/9_3_ans.pdf)

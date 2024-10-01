@@ -139,3 +139,4 @@ class BoardComputer {
 ```
 
 [[Code Style Worksheet]](/sat/files/8_30.pdf)
+[[Answers]](/sat/files/8_30_ans.pdf)
