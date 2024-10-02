@@ -10,3 +10,4 @@ collection: sat
 
 [[Worksheet]](/sat/files/9_24.pdf)
 [[Answers]](/sat/files/9_24_ans.pdf)
+[[Lab 4 Part I Answers]](/sat/files/9_27_ans.pdf)
