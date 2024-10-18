@@ -14,6 +14,7 @@ collection: sat
 - Systematic and Effective Testing
     - [Testing Principle and the testing pyramid](https://georgianahaldeman.github.io/sat/sat-6/)
     - [Specification-based Testing and JUnit](https://georgianahaldeman.github.io/sat/sat-7/)
+    - [Structural Testing and Code Coverage](https://georgianahaldeman.github.io/sat/sat-8/)
 
 
 
