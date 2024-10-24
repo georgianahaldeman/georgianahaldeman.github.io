@@ -11,3 +11,5 @@ collection: sat
 [[10-17-2024 Worksheet]](/sat/files/10_17.pdf)
 
 [[10-22-2024 Worksheet]](/sat/files/10_22.pdf)
+
+[[10-24-2024 Worksheet]](/sat/files/10_24.pdf)
