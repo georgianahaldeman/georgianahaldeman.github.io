@@ -28,6 +28,8 @@ collection: sat
     - AssertJ
         - [User Guide](https://weblab.tudelft.nl/docs/assertj/user-guide/)
         - [Latest API](https://weblab.tudelft.nl/docs/assertj/assertj-core/3.23.1/)
-    - Mockito
     - Jqwik
+        - [User Guide](https://weblab.tudelft.nl/docs/jqwik/1.7.0/user-guide.html)
+        - [Latest API](https://weblab.tudelft.nl/docs/jqwik/1.7.0/javadoc/index.html)
+    - Mockito
     - Selenium 
