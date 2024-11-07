@@ -9,4 +9,6 @@ collection: sat
 
 [[10-31-2024 Worksheet]](/sat/files/10_31.pdf)
 
+[[11-05-2024 Worksheet]](/sat/files/11_5.pdf)
+
 

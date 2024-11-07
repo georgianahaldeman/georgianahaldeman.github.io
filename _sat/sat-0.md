@@ -16,6 +16,7 @@ collection: sat
     - [Specification-based Testing and JUnit](https://georgianahaldeman.github.io/sat/sat-7/)
     - [Structural Testing and Code Coverage](https://georgianahaldeman.github.io/sat/sat-8/)
     - [Property-based Testing](https://georgianahaldeman.github.io/sat/sat-9/)
+    - [Test doubles and mocks](https://georgianahaldeman.github.io/sat/sat-10/)
 
 
 
@@ -29,6 +30,8 @@ collection: sat
     - AssertJ
         - [User Guide](https://weblab.tudelft.nl/docs/assertj/user-guide/)
         - [Latest API](https://weblab.tudelft.nl/docs/assertj/assertj-core/3.23.1/)
+    - Jacoco
+        - [Documentation](https://www.eclemma.org/jacoco/trunk/index.html)
     - Jqwik
         - [User Guide](https://weblab.tudelft.nl/docs/jqwik/1.7.0/user-guide.html)
         - [Latest API](https://weblab.tudelft.nl/docs/jqwik/1.7.0/javadoc/index.html)
