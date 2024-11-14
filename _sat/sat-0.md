@@ -16,7 +16,7 @@ collection: sat
     - [Specification-based Testing and JUnit](https://georgianahaldeman.github.io/sat/sat-7/)
     - [Structural Testing and Code Coverage](https://georgianahaldeman.github.io/sat/sat-8/)
     - [Property-based Testing](https://georgianahaldeman.github.io/sat/sat-9/)
-    - [Test doubles and mocks](https://georgianahaldeman.github.io/sat/sat-10/)
+    - [Test doubles and Designing for Testing](https://georgianahaldeman.github.io/sat/sat-10/)
 
 
 
@@ -36,4 +36,6 @@ collection: sat
         - [User Guide](https://weblab.tudelft.nl/docs/jqwik/1.7.0/user-guide.html)
         - [Latest API](https://weblab.tudelft.nl/docs/jqwik/1.7.0/javadoc/index.html)
     - Mockito
+        - [User Guide](https://weblab.tudelft.nl/docs/mockito/4.8/org/mockito/Mockito.html)
+        - [Latest API](https://weblab.tudelft.nl/docs/mockito/4.8/)
     - Selenium 
