@@ -16,7 +16,7 @@ collection: sat
     - [Specification-based Testing and JUnit](https://georgianahaldeman.github.io/sat/sat-7/)
     - [Structural Testing and Code Coverage](https://georgianahaldeman.github.io/sat/sat-8/)
     - [Property-based Testing](https://georgianahaldeman.github.io/sat/sat-9/)
-    - [Test doubles and Designing for Testing](https://georgianahaldeman.github.io/sat/sat-10/)
+    - [Test doubles and Integration Tests](https://georgianahaldeman.github.io/sat/sat-10/)
 
 
 
