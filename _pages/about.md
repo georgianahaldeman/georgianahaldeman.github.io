@@ -14,12 +14,16 @@ I am currently an Assistant Professor at Colgate University. My research focus i
 
 ## Currently Teaching
 
-- [**Software Analysis and Testing (COSC215)**](https://georgianahaldeman.github.io/sat/)
+- **Software Analysis and Testing (COSC215)**
+
+<!-- (https://georgianahaldeman.github.io/sat/) -->
 
 <!-- - [**Intro to Computing I (COSC 101)**](https://georgianahaldeman.github.io/cosc101/) -->
 
 
 ## Recent Papers and Talks
+
+- **Teaching Program Decomposition in CS1: A Conceptual Framework for Improved Code Quality**, SIGCSE 2025 [[Paper]](https://arxiv.org/abs/2411.09463)
 
 - **Introducing Code Quality in the CS1 Classroom**, ITICSE 2024 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3649405.3659535) 
 
